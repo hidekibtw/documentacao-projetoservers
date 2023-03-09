@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>ADMWINDOWS.com</h1>
+    Autor: Grupo-04 (Sander Hideki, Felipe de Almeida, Fernando Porquinho, João Vitor)
+    <Strong>MELHOR SITE LINUX and WINDOWS OF THE WORLDDDD</Strong>
+
+    <style>
+        body {
+            background-color: rebeccapurple;
+        }
+    </style>
+
+    <img src="https://media.licdn.com/dms/image/C4D03AQHJxJi3uaGB7Q/profile-displayphoto-shrink_800_800/0/1517490437856?e=2147483647&v=beta&t=9HAiMH2dl9qTaX08zChp1vQ9UViT1lzl1J2c_8hQhrs"
+        alt="RobsonVaamonde">
+    <img src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/243756604_2559258990884589_7705975154225095520_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a26aad&_nc_ohc=akFyXuiQgUQAX_XQ2pZ&_nc_oc=AQmzBExtrmNu59Lpe7zhI7Eaacv3qufL8juGvu-axEJFTx1btMoZ9frgHS74x4j4ksY&_nc_ht=scontent-gru1-1.xx&oh=00_AfC3zHz8jGwhyrbEuOeeqbfRov9N_EobeC2sdj1sgVbZpg&oe=640E3CCD"
+        width="450" alt="ProfessorRamos">
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="color: white;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style: italic;font-size: larger;" href="https://www.youtube.com/channel/UC-zMoZSD3tDQLEuPYJtL0hw">BoraPraPrática</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="color: white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style: italic;font-size: larger; " href="https://www.youtube.com/channel/UCILDPnM67p8nb1uL8tNdYXQ">ProfessorRégisTadeu</a>
+    
+</body>
+
+</html>
